@@ -12,3 +12,6 @@ URL: https://github.com/RISAW1130/xkcd
 BugReports: https://github.com/RISAW1130/xkcd/issues
 Imports: 
     jsonlite
+Depends: 
+    R (>= 3.5)
+LazyData: true
