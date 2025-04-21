@@ -4,6 +4,10 @@
 # xkcd
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/RISAW1130/xkcd/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/RISAW1130/xkcd/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/RISAW1130/xkcd/graph/badge.svg)](https://app.codecov.io/gh/RISAW1130/xkcd)
 <!-- badges: end -->
 
 The `xkcd` package provides an R interface to retrieve data about [xkcd
